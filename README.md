@@ -1,4 +1,4 @@
-# Temperature_Conversion_Project
+# Temperature Conversion Project
 ## Overview
 
 This is a **simple Python program** that converts temperatures between **Celsius, Fahrenheit, and Kelvin**.  
